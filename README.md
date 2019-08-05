@@ -1,2 +1,2 @@
 # Data_Preprocessing_Python
-This script cleans up data before it is feed into a machine learning model.
+This template cleans up data before it is fed into a machine learning model. Missing Data and Categorical Data is also catered for. Data is split into training set and test set, and feature scaling is performed to gt normalized results. 
